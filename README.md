@@ -1,6 +1,6 @@
 # Distributed-Data-Analysis-and-Mining-Project
 
-La cartella progettuale è suddivisa in due folder principali contenenti i datasets e i codici  per ognuno dei quattro casi di studio: Nord, Sud, Est, Ovest del problema affrontato. Contiene inoltre un report in formato pdf dell'attività svolta.
+La cartella progettuale è suddivisa in due folder principali contenenti i datasets(non presentio nella repository per problemi di grandezza) e i codici  per ognuno dei quattro casi di studio: Nord, Sud, Est, Ovest del problema affrontato. Contiene inoltre un report in formato pdf dell'attività svolta.
 
 In particolare la cartella Codes è stata suddivisa in ulteriori 4 cartelle contenenti ciascuna le logiche relative ai task conseguiti nei 4 differenti casi di studio:
 
