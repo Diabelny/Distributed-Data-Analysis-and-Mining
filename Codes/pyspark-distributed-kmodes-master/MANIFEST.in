@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE
+include *.txt
+include docs/*.ipynb
+include docs/images/*.png
